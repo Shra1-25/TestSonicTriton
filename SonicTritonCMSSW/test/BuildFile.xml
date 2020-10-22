@@ -3,4 +3,4 @@
 <use name="FWCore/Framework"/>
 <use name="HeterogeneousCore/SonicCore"/>
 <use name="HeterogeneousCore/SonicTriton"/>
-<library file="*.cc" name="testHeterogenousCoreSonicTriton"/>
+<library file="*.cc" name="testTestSonicTritonSonicTritonCMSSW"/>
