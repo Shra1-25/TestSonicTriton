@@ -1,7 +1,7 @@
 #include "FWCore/MessageLogger/interface/MessageLogger.h"
 #include "FWCore/Utilities/interface/Exception.h"
 #include "TestSonicTriton/SonicTritonCMSSW/interface/TritonClient.h"
-#include "HeterogeneousCore/SonicTriton/interface/triton_utils.h"
+#include "TestSonicTriton/SonicTritonCMSSW/interface/triton_utils.h"
 
 #include "grpc_client.h"
 #include "grpc_service.pb.h"
