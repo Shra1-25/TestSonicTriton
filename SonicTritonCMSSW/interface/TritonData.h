@@ -1,4 +1,4 @@
-//#ifndef HeterogeneousCore_SonicTriton_TritonData
+#ifndef HeterogeneousCore_SonicTriton_TritonData
 #define HeterogeneousCore_SonicTriton_TritonData
 
 #include "FWCore/Utilities/interface/Exception.h"
@@ -120,4 +120,4 @@ void TritonOutputData::createObject(nvidia::inferenceserver::client::InferReques
 extern template class TritonData<nvidia::inferenceserver::client::InferInput>;
 extern template class TritonData<nvidia::inferenceserver::client::InferRequestedOutput>;
 
-//#endif
+#endif
