@@ -1,5 +1,5 @@
 #include "HeterogeneousCore/SonicCore/interface/SonicEDProducer.h"
-#include "TestSonicTriton/SonicTritonCMSSW/SonicTriton/interface/TritonClient.h"
+#include "TestSonicTriton/SonicTritonCMSSW/interface/TritonClient.h"
 
 #include "FWCore/ParameterSet/interface/ConfigurationDescriptions.h"
 #include "FWCore/ParameterSet/interface/ParameterSetDescription.h"
