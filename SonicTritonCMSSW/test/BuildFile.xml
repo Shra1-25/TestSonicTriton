@@ -2,5 +2,5 @@
 <use name="FWCore/ParameterSet"/>
 <use name="FWCore/Framework"/>
 <use name="HeterogeneousCore/SonicCore"/>
-<use name="HeterogeneousCore/SonicTriton"/>
+<use name="TestSonicTriton/SonicTritonCMSSW"/>
 <library file="*.cc" name="testTestSonicTritonSonicTritonCMSSW"/>
