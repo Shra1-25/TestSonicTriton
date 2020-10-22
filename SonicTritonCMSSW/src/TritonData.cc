@@ -1,5 +1,5 @@
 #include "TestSonicTriton/SonicTritonCMSSW/interface/TritonData.h"
-#include "HeterogeneousCore/SonicTriton/interface/triton_utils.h"
+#include "TestSonicTriton/SonicTritonCMSSW/interface/triton_utils.h"
 #include "FWCore/MessageLogger/interface/MessageLogger.h"
 
 #include "model_config.pb.h"
