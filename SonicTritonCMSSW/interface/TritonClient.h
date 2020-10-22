@@ -1,5 +1,5 @@
-#ifndef HeterogeneousCore_SonicTriton_TritonClient
-#define HeterogeneousCore_SonicTriton_TritonClient
+#ifndef TestSonicTriton_SonicTritonCMSSW_TritonClient
+#define TestSonicTriton_SonicTritonCMSSW_TritonClient
 
 #include "FWCore/ParameterSet/interface/ParameterSet.h"
 #include "FWCore/ParameterSet/interface/ParameterSetDescription.h"
