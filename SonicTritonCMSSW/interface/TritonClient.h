@@ -4,7 +4,7 @@
 #include "FWCore/ParameterSet/interface/ParameterSet.h"
 #include "FWCore/ParameterSet/interface/ParameterSetDescription.h"
 #include "HeterogeneousCore/SonicCore/interface/SonicClient.h"
-#include "HeterogeneousCore/SonicTriton/interface/TritonData.h"
+#include "TestSonicTriton/SonicTritonCMSSW/interface/TritonData.h"
 
 #include <map>
 #include <vector>
