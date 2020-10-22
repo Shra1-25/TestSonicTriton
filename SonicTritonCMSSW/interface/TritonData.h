@@ -1,5 +1,5 @@
-#ifndef HeterogeneousCore_SonicTriton_TritonData
-#define HeterogeneousCore_SonicTriton_TritonData
+#ifndef TestSonicTriton_SonicTritonCMSSW_TritonData
+#define TestSonicTriton_SonicTritonCMSSW_TritonData
 
 #include "FWCore/Utilities/interface/Exception.h"
 #include "FWCore/Utilities/interface/Span.h"
